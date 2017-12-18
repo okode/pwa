@@ -1,6 +1,11 @@
+.DS_Store
 .classpath
 .gradle/
 .project
 .settings/
 bin/
 .sts4-cache/
+dist/
+tmp/
+out-tsc/
+node_modules/
